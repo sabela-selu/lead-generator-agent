@@ -25,8 +25,7 @@ An intelligent lead generation agent built using Pydantic AI and Hunter.io API, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ottomator-agents.git
-cd ottomator-agents/lead-generator-agent
+git clone https://github.com/sabela-selu/lead-generator-agent.git
 ```
 
 2. Install dependencies:
